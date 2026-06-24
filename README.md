@@ -1,4 +1,4 @@
-# 🛡️ CyberBot POE - Cybersecurity Awareness Chatbot
+#  CyberBot POE - Cybersecurity Awareness Chatbot
 
 
 
