@@ -1,11 +1,8 @@
 # 🛡️ CyberBot POE - Cybersecurity Awareness Chatbot
 
-![Version]
-![C#]
-![WPF]
-![MySQL]
 
-## 📌 Project Overview
+
+##  Project Overview
 
 **CyberBot POE** is a comprehensive Cybersecurity Awareness Chatbot built as a **WPF desktop application** using **C#** and **.NET**. It integrates advanced features including natural language processing, task management with MySQL database integration, an interactive cybersecurity quiz, and an activity logging system.
 
@@ -19,7 +16,7 @@ This project demonstrates practical applications of:
 
 ---
 
-## 🎯 Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
