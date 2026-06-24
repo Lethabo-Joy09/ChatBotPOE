@@ -46,5 +46,5 @@ This project demonstrates practical applications of:
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ChatBotPOE.git
+git clone https://github.com/Lethabo-Joy09/ChatBotPOE
 cd ChatBotPOE
