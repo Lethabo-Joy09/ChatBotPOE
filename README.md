@@ -31,7 +31,7 @@ This project demonstrates practical applications of:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
