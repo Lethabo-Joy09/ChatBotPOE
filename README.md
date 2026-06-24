@@ -1,9 +1,9 @@
 # 🛡️ CyberBot POE - Cybersecurity Awareness Chatbot
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![C#](https://img.shields.io/badge/C%23-8.0-purple.svg)
-![WPF](https://img.shields.io/badge/WPF-.NET%208.0-green.svg)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)
+![Version]
+![C#]
+![WPF]
+![MySQL]
 
 ## 📌 Project Overview
 
