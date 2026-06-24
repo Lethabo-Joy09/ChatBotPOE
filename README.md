@@ -20,8 +20,8 @@ This project demonstrates practical applications of:
 
 | Feature | Description |
 |---------|-------------|
-| 💬 **Intelligent Chat** | Responds to user messages with NLP-based intent detection |
-| 📋 **Task Management** | Create, complete, and delete cybersecurity tasks with MySQL persistence |
+|  **Intelligent Chat** | Responds to user messages with NLP-based intent detection |
+|  **Task Management** | Create, complete, and delete cybersecurity tasks with MySQL persistence |
 |  **Reminders** | Set date-based reminders using natural language (e.g., "tomorrow", "in 3 days") |
 |  **Cybersecurity Quiz** | 11+ questions covering phishing, passwords, safe browsing, and social engineering |
 |  **Activity Log** | Tracks all user actions with timestamps |
