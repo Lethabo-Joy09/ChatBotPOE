@@ -11,7 +11,6 @@ namespace ChatBotPOE
     /// </summary>
     public class DatabaseHelper
     {
-        // Connection string - update "yourpassword" with your MySQL root password
         private string connectionString = "server=localhost;database=cyberbot_db;uid=root;pwd=Lethabo-2026;";
 
         /// <summary>
